@@ -42,10 +42,6 @@ A simple React application featuring a responsive login/signup form with dynamic
 
 Feel free to contribute to the project by submitting issues or pull requests.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Make sure to replace "your-username" and "your-repo" with your actual GitHub username and repository name. If you have a specific license for your project, replace "MIT License" and provide the corresponding license file.
